@@ -110,12 +110,12 @@ body {
     object-fit: cover;
 }
 
-.modal__heading {
+/* .modal__heading {
     margin-top: 10px;
     font-size: 3.5rem;
     font-weight: 500;
     color: red;
-}
+} */
 
 .modal__desc {
     margin-top: 20px;
